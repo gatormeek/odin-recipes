@@ -1,12 +1,11 @@
 /* styles.css */
 
-div {
-    color: rgb(187, 149, 23);
-    background-color: rgb(119, 81, 24);
+* {
+    color: rgb(190, 167, 90);
+    background-color: rgb(114,78,44);
     text-align: center;
   }
   
   p {
     color: red;
   }
-  
